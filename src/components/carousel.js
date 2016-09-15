@@ -16,19 +16,19 @@ class Carousel extends Component{
 
         <div className="carousel-inner" role="listbox">
           <div className="item active">
-            <img  className="img-carousel1" src="../../assets/img/slider-3.jpg" alt="sarabeths"/>
+            <img  className="img-carousel1" src="TamilMoviesMelbourne/../../assets/img/slider-3.jpg" alt="sarabeths"/>
             <div className="carousel-caption">
             <h1>Kabali The Beginning</h1>
             </div>
           </div>
           <div className="item">
-            <img className="img-carousel1" src="../../assets/img/slider-1.jpg" alt="sarabeths"/>
+            <img className="img-carousel1" src="TamilMoviesMelbourne/../../assets/img/slider-1.jpg" alt="sarabeths"/>
             <div className="carousel-caption">
             <h1>Kabali The Beginning</h1>
             </div>
           </div>
           <div className="item">
-            <img className="img-carousel1" src="../../assets/img/slider-3.jpg" alt="sarabeths"/>
+            <img className="img-carousel1" src="TamilMoviesMelbourne/../../assets/img/slider-3.jpg" alt="sarabeths"/>
             <div className="carousel-caption">
             <h1>Kabali The Beginning</h1>
             </div>

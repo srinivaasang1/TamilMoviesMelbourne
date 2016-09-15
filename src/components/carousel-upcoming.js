@@ -14,12 +14,12 @@ class CarouselUpcoming extends Component{
               <div className="col-md-2">
               </div>
               <div className="col-md-4">
-                <img src="../../assets/img/bahubali.jpg" alt="sarabeths"/>
+                <img src="TamilMoviesMelbourne/../../assets/img/bahubali.jpg" alt="sarabeths"/>
               </div>
               <div className="col-md-4">
                 <span className="movie-pills">Title</span>&nbsp;&nbsp;&nbsp;<span>Baahubali: The Conclusion</span><br/><br/>
                 <span className="movie-pills">Genre</span>&nbsp;&nbsp;&nbsp;<span>Action, Adventure, History </span><br/><br/>
-                <span className="movie-pills">Cast & Crew</span>&nbsp;&nbsp;&nbsp;<span>Prabhas, Rana Daggubati, Anushka Shetty |</span><br/><br/>
+                <span className="movie-pills">Cast & Crew</span>&nbsp;&nbsp;&nbsp;<span>Prabhas, Rana Daggubati, Anushka Shetty</span><br/><br/>
                 <span className="movie-pills">Plot</span>&nbsp;&nbsp;&nbsp;<span>When two opposite ends unite the rod breaks in between. When Shiva, the son of Bahubali realizes his past from Kattappa, he seeks to find consensus to his question : Why did Kattapa kill his father? This, Bahubali- the Conclusion showcases the answer and its consequences on the Mahishmati Kingdom when its roots are stirred.</span><br/><br/>
                 <span className="movie-pills">Expected Release Date</span>&nbsp;&nbsp;&nbsp;<span>2017 feb</span><br/><br/>
               </div>
@@ -32,7 +32,7 @@ class CarouselUpcoming extends Component{
               <div className="col-md-2">
               </div>
               <div className="col-md-4">
-                <img src="../../assets/img/kashmora.jpg" alt="sarabeths"/>
+                <img src="TamilMoviesMelbourne/../../assets/img/kashmora.jpg" alt="sarabeths"/>
               </div>
               <div className="col-md-4 clearfix">
                 <span className="movie-pills">Title</span>&nbsp;&nbsp;&nbsp;<span>Kaashmora</span><br/><br/>
@@ -50,7 +50,7 @@ class CarouselUpcoming extends Component{
               <div className="col-md-2">
               </div>
               <div className="col-md-4">
-                <img src="../../assets/img/thodari.jpg" alt="sarabeths"/>
+                <img src="TamilMoviesMelbourne/../../assets/img/thodari.jpg" alt="sarabeths"/>
               </div>
               <div className="col-md-4">
                 <span className="movie-pills">Title</span>&nbsp;&nbsp;&nbsp;<span>Thodari</span><br/><br/>
