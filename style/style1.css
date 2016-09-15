@@ -1,0 +1,508 @@
+/*@media (min-width: 768px){
+    .navbar-nav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
+.navbar-nav li{
+  color: #000000;
+  font-weight: 400;;
+  font-family: sans-serif;
+  letter-spacing:0.24em;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #000000;
+}*/
+
+.navbar-default{
+  background-color:#333;
+  border: none;
+  opacity:0.8;
+}
+.navbar-default .navbar-nav>li>a{
+  color: white;
+  font-weight: 400;;
+  font-family: sans-serif;
+  letter-spacing:0.24em;
+}
+
+.nav .active{
+}
+
+.navbar-brand{
+  font-family: 'Nunito', sans-serif;
+  color: white;
+  padding: 5px;
+}
+
+#logo1{
+  font-size: 16px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    text-decoration: none;
+    background-color: #337AB7;
+    border-radius: 5px;
+    color: white;
+  }
+
+.carousel-container{
+  width:100%;
+}
+
+.carousel-upcoming{
+  background-color:white;
+}
+
+.carousel-control.left, .carousel-control.right{
+  background-image: none;
+  background-color: transparent;
+}
+
+#upcoming .glyphicon{
+  color: black;
+}
+
+.movie-pills{
+  background-color: yellow;
+  border-radius: 5px;
+  padding: 6px;
+  display:inline-block;
+}
+
+
+.img-carousel1{
+  height: 600px;
+  width: 100%;
+}
+
+.carousel-flex{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.container-frame {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 60.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 70%;
+}
+.video2 {
+    position: absolute;
+    top: 0;
+    right: 3%;
+    width: 30%;
+    height: 70%;
+}
+
+#contact p{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color: #4ecdc4;
+    font-size: 38px;
+    line-height: 58px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+#contact h3{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color: #4c4c4c;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 28px;
+    line-height: 48px;
+    clear: both;
+    position: relative;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.footer-container{
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+}
+
+.img-footer{
+  height: 90px;
+  width:240px;
+}
+
+.container-recent{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.collapsible-button-poster1{
+  background-image: url('../assets/img/sethupathi.jpg');
+  height:270px;
+  width:188px;
+  padding: 20px;
+  border: none;
+}
+
+.collapsible-button-poster2{
+  background-image: url('../assets/img/linga.jpg');
+  height:270px;
+  width:188px;
+  padding: 20px;
+  border: none;
+}
+
+.collapsible-button-poster3{
+  background-image: url('../assets/img/mahaan.jpg');
+  height:270px;
+  width:188px;
+  padding: 20px;
+  border: none;
+}
+
+.collapsible-button-poster4{
+  background-image: url('../assets/img/inimey.jpg');
+  height:270px;
+  width:188px;
+  padding: 20px;
+  border: none;
+}
+
+.collapsible-panel{
+  width:188px;
+  margin: 10px;
+}
+
+.page-beige{
+  background: #e0dcd4;
+  color: #002846;
+  height: 679px;
+  width:100%;
+}
+.page-gold{
+  background: #ce9f52;
+  color: #002846;
+  height: 679px;
+  width:100%;
+}
+
+.page-design{
+  background-image: url("../assets/img/outer-building.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height:1358px;
+  margin-top: -28px;
+}
+
+#home .logo{
+    top: 15%;
+    left: 50%;
+    width: 25%;
+    margin-left: -12.5%;
+    min-width: 150px;
+    position: absolute;
+    display: block;
+}
+
+#home-intro .building{
+    display: block;
+}
+
+#paragraph .para{
+    font-weight: 100;
+    font-family: sans-serif;;
+    margin-right: 15%;
+    margin-top: 18%;
+    letter-spacing:0.1em;
+}
+
+#neighbour .title{
+    font-weight: 200;
+    font-family: sans-serif;;
+    margin-top: 3%;
+    letter-spacing:0.2em;
+    text-align: center;
+    clear:both;
+}
+
+#neighbour .para{
+    font-weight: 100;
+    font-family: sans-serif;;
+    letter-spacing:0.1em;
+    text-align: center;
+}
+
+#design .title{
+    font-weight: 200;
+    font-family: sans-serif;;
+    margin-top: 3%;
+    letter-spacing:0.3em;
+    text-align: center;
+    clear:both;
+    color: white;
+    font-size: 4em;
+}
+
+#design .para{
+    font-weight: 100;
+    font-family: sans-serif;;
+    letter-spacing:0.3em;
+    text-align: center;
+    color: white;
+    font-size: 1.2em;
+
+
+}
+
+#design-awards .bookshelf{
+    width: 185px;
+    min-width: 100px;
+    display: block;
+    margin-left: 25%;
+    float: left;
+    height:273px;
+}
+
+#design-awards #paragraph .para{
+    font-weight: 100;
+    font-family: sans-serif;;
+    margin-right: 15%;
+    letter-spacing:0.1em;
+    margin-left: 5%;
+    margin-top: 15px;
+
+}
+
+#design-awards .title{
+    font-weight: 200;
+    font-family: sans-serif;;
+    margin-top: 3%;
+    margin-left: 5%;
+    letter-spacing:0.1em;
+    text-align: center;
+    clear:both;
+    color: #002846;
+    font-size: 2em;
+}
+
+#final .title{
+    font-weight: 200;
+    font-family: sans-serif;;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    letter-spacing:0.2em;
+    text-align: center;
+    clear:both;
+    color: #e0dcd4;
+}
+
+#final .paragraph{
+    font-weight: 100;
+    font-family: sans-serif;;
+    letter-spacing:0.1em;
+
+}
+
+ .piano{
+    height:273px;
+    width: 185px;
+    bottom: -130px;
+    right: 0;
+    float: right;
+    position: relative;
+}
+
+
+.slick-slider{
+  width:90%;
+  text-align: center;
+margin: auto;
+}
+
+.slick{
+  width:400px;
+  height:400px;
+}
+
+.logo-img{
+  width: 150px;
+    height: 130px;
+}
+
+.circ-img{
+  width: 180px;
+    height: 170px;
+}
+
+.slick-slide {
+  margin-left: 10px;
+  margin-right: 10px;
+  }
+
+
+.comp-title{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+.height-percent1{
+  height: 100%;
+}
+
+.height-percent2{
+  height: 50%;
+}
+
+.height-percent{
+  height: 33.33%
+}
+
+.flexbox {
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	flex-flow: column;
+}
+
+.textContainer{
+  line-height: 400px;
+}
+.textContainer div{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+.vcenter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+.vcenter1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin:auto;
+  justify-content: center; /* Optional, to align inner items*/
+}
+
+.col-ht{
+  height:100%;
+}
+
+.vcenterc{
+}
+
+.vcenter > [class^="col-"],
+.vcenter > [class*=" col-"] {
+  justify-content: center; /* Optional, to align inner items
+                              horizontally inside the column */
+}
+
+.vcenter > [class^="col-"] > div,
+.vcenter > [class*=" col-"] > div {
+  /* flex: 1; */
+  flex-grow: 1;
+}
+
+.vcentercol {
+  display: flex;
+  flex-direction: row;
+}
+
+.vcentercol > [class^="col-"],
+.vcentercol > [class*=" col-"] {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Optional, to align inner items
+                              horizontally inside the column */
+}
+
+.vcentercol > [class^="col-"] > div,
+.vcentercol > [class*=" col-"] > div {
+  /* flex: 1; */
+  flex-grow: 1;
+}
+
+.parent {
+    display: table;
+    table-layout: fixed;
+}
+
+.child {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+    float: none;
+}
+
+.redBg{
+  background-color: #660033;
+  color:white;
+  font-family: sans-serif;
+}
+
+.share{
+  font-weight: 100;
+}
+
+.share-percent{
+  font-weight: 200;
+}
+
+.war{
+    color: white;
+    background-color: #3b5999;
+    padding: 5px;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.war-google{
+    color: white;
+    background-color: #DA4936;
+    padding: 5px;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.war-amazon{
+    color: white;
+    background-color: #FE9900;
+    padding: 5px;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.war-apple{
+    color: white;
+    background-color:#5C5C5C;
+    padding: 5px;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+}
