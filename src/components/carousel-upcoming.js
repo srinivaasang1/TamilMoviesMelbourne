@@ -14,7 +14,7 @@ class CarouselUpcoming extends Component{
               <div className="col-md-2">
               </div>
               <div className="col-md-4">
-                <img src="TamilMoviesMelbourne/../../assets/img/bahubali.jpg" alt="sarabeths"/>
+                <img src="assets/img/bahubali.jpg" alt="sarabeths"/>
               </div>
               <div className="col-md-4">
                 <span className="movie-pills">Title</span>&nbsp;&nbsp;&nbsp;<span>Baahubali: The Conclusion</span><br/><br/>
@@ -32,7 +32,7 @@ class CarouselUpcoming extends Component{
               <div className="col-md-2">
               </div>
               <div className="col-md-4">
-                <img src="TamilMoviesMelbourne/../../assets/img/kashmora.jpg" alt="sarabeths"/>
+                <img src="assets/img/kashmora.jpg" alt="sarabeths"/>
               </div>
               <div className="col-md-4 clearfix">
                 <span className="movie-pills">Title</span>&nbsp;&nbsp;&nbsp;<span>Kaashmora</span><br/><br/>
@@ -50,7 +50,7 @@ class CarouselUpcoming extends Component{
               <div className="col-md-2">
               </div>
               <div className="col-md-4">
-                <img src="TamilMoviesMelbourne/../../assets/img/thodari.jpg" alt="sarabeths"/>
+                <img src="assets/img/thodari.jpg" alt="sarabeths"/>
               </div>
               <div className="col-md-4">
                 <span className="movie-pills">Title</span>&nbsp;&nbsp;&nbsp;<span>Thodari</span><br/><br/>
