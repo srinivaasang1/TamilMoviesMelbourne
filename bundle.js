@@ -79,7 +79,7 @@
 
 	_reactDom2.default.render(_react2.default.createElement(
 	  _reactRedux.Provider,
-	  { store: createStoreWithMiddleware(reducers) },
+	  null,
 	  _react2.default.createElement(_app2.default, null)
 	), document.getElementById('container1'));
 
