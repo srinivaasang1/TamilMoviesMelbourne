@@ -27781,7 +27781,7 @@
 	          _react2.default.createElement(
 	            'div',
 	            { className: 'item active' },
-	            _react2.default.createElement('img', { className: 'img-carousel1', src: '../../assets/img/slider-3.jpg', alt: 'sarabeths' }),
+	            _react2.default.createElement('img', { className: 'img-carousel1', src: 'TamilMoviesMelbourne/../../assets/img/slider-3.jpg', alt: 'sarabeths' }),
 	            _react2.default.createElement(
 	              'div',
 	              { className: 'carousel-caption' },
@@ -27795,7 +27795,7 @@
 	          _react2.default.createElement(
 	            'div',
 	            { className: 'item' },
-	            _react2.default.createElement('img', { className: 'img-carousel1', src: '../../assets/img/slider-1.jpg', alt: 'sarabeths' }),
+	            _react2.default.createElement('img', { className: 'img-carousel1', src: 'TamilMoviesMelbourne/../../assets/img/slider-1.jpg', alt: 'sarabeths' }),
 	            _react2.default.createElement(
 	              'div',
 	              { className: 'carousel-caption' },
@@ -27809,7 +27809,7 @@
 	          _react2.default.createElement(
 	            'div',
 	            { className: 'item' },
-	            _react2.default.createElement('img', { className: 'img-carousel1', src: '../../assets/img/slider-3.jpg', alt: 'sarabeths' }),
+	            _react2.default.createElement('img', { className: 'img-carousel1', src: 'TamilMoviesMelbourne/../../assets/img/slider-3.jpg', alt: 'sarabeths' }),
 	            _react2.default.createElement(
 	              'div',
 	              { className: 'carousel-caption' },
@@ -27967,7 +27967,7 @@
 	              _react2.default.createElement(
 	                'div',
 	                { className: 'col-md-4' },
-	                _react2.default.createElement('img', { src: '../../assets/img/bahubali.jpg', alt: 'sarabeths' })
+	                _react2.default.createElement('img', { src: 'TamilMoviesMelbourne/../../assets/img/bahubali.jpg', alt: 'sarabeths' })
 	              ),
 	              _react2.default.createElement(
 	                'div',
@@ -28007,7 +28007,7 @@
 	                _react2.default.createElement(
 	                  'span',
 	                  null,
-	                  'Prabhas, Rana Daggubati, Anushka Shetty |'
+	                  'Prabhas, Rana Daggubati, Anushka Shetty'
 	                ),
 	                _react2.default.createElement('br', null),
 	                _react2.default.createElement('br', null),
@@ -28051,7 +28051,7 @@
 	              _react2.default.createElement(
 	                'div',
 	                { className: 'col-md-4' },
-	                _react2.default.createElement('img', { src: '../../assets/img/kashmora.jpg', alt: 'sarabeths' })
+	                _react2.default.createElement('img', { src: 'TamilMoviesMelbourne/../../assets/img/kashmora.jpg', alt: 'sarabeths' })
 	              ),
 	              _react2.default.createElement(
 	                'div',
@@ -28135,7 +28135,7 @@
 	              _react2.default.createElement(
 	                'div',
 	                { className: 'col-md-4' },
-	                _react2.default.createElement('img', { src: '../../assets/img/thodari.jpg', alt: 'sarabeths' })
+	                _react2.default.createElement('img', { src: 'TamilMoviesMelbourne/../../assets/img/thodari.jpg', alt: 'sarabeths' })
 	              ),
 	              _react2.default.createElement(
 	                'div',
